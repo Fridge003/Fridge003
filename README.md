@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! 🌟
+
+I'm Baizhou Zhang, currently a master of computer science student studying at UC San Diego.
+
+I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers.
+
+In my spare time, I like playing video games on Nintendo Switch, or playing classical piano pieces.
+
 <!--
 **Fridge003/Fridge003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +21,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+## GitHub Stats
+![Baizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baizhouzhang&show_icons=true&theme=cobalt)
+-->
+
+## How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/baizhou-zhang-7b8488302/)
+- Email: baz003@ucsd.edu
+
+
+<!--
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,java,swift,kotlin)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,angular,next,html,css,tailwind)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,,githubactions,gitlab)
 -->
