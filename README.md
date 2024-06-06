@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm Baizhou Zhang, currently a master of computer science student studying at UC San Diego.
+I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego.
 
 I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers.
 
