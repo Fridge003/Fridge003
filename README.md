@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/baizhou-zhang-7b8488302/)
+- [Zhihu](https://www.zhihu.com/people/tangent-34)
 - Email: baz003@ucsd.edu
 
 
