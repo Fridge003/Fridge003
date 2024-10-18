@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🌟
 
 I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in artificial intelligence.
 
-I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also trying to learn technologies about parallel programming, such as Cuda.
+I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture and cloud computing.
 
 In my spare time, I like playing video games on Nintendo Switch, or playing classical piano pieces (Bach, Mozart and Debussy are my favourite composers).
 
