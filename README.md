@@ -8,6 +8,8 @@ I'm interested in the area of machine learning systems, including training frame
 
 In my spare time, I like playing video games on Nintendo Switch, or playing classical piano pieces (Bach, Mozart and Debussy are my favourite composers).
 
+During summer of 2025, I plan to join Nvidia as a software engineer intern, working mostly on Cuda optimization on GPUs.
+
 <!--
 **Fridge003/Fridge003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
