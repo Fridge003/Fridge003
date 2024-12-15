@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 ![Baizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=baizhouzhang&show_icons=true&theme=cobalt)
 -->
 
+<!--
 ## GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/Fridge003?style=social)
 
 [![Baizhou Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fridge003)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/baizhou-zhang-7b8488302/)
