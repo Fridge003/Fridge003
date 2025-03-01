@@ -10,10 +10,6 @@ I'm interested in the area of machine learning systems, including training frame
 
 [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
 
-[ColossalAI](https://github.com/hpcaitech/ColossalAI)
-
-
-
 
 In my spare time, I like playing video games on Nintendo Switch/PS5, or playing classical piano pieces.
 
