@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🌟
 
 I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in intelligence science.
 
-I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture and cloud computing. Here are the list of open source projects I have worked on:
+I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture. Here are the list of open source projects I have worked on:
 
 [SGLang](https://github.com/sgl-project/sglang) (Currently working on)
 
