@@ -2,19 +2,17 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in intelligence science.
+I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in intelligence science. I'm also working at Nvidia as a software engineer intern this summer.
 
 I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture. Here are the list of open source projects I have worked on:
 
-[SGLang](https://github.com/sgl-project/sglang) (Currently working on)
+[SGLang](https://github.com/sgl-project/sglang) (Now working on)
 
 [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
 
 [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
 In my spare time, I like playing video games on Nintendo Switch/PS5, or playing classical piano pieces.
-
-During summer of 2025, I will join Nvidia CuDNN team as a software engineer intern.
 
 <!--
 **Fridge003/Fridge003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
