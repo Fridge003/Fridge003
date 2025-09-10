@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in intelligence science. This summer I'm working at Nvidia CuDNN team as a software engineer intern.
+I'm Baizhou Zhang, a master student majoring in computer science at UC San Diego. I graduated from Peking University with a Bachelor of Science degree in intelligence science. I once worked at Nvidia CuDNN team, Baidu Paddle team and ColossalAI team as intern before.
 
 I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture. Here are the list of open source projects I have worked on:
 
