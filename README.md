@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🌟
 
-I'm Baizhou Zhang, a MSCS student at UC San Diego. Before that I graduated from Peking University. I once worked at Nvidia CuDNN team, Baidu Paddle team and ColossalAI team as intern before.
+I'm Baizhou Zhang, a MSCS student at UC San Diego. Before that I graduated from Peking University. I once worked at Nvidia CuDNN team, Baidu Paddle team and ColossalAI team as intern.
 
 I'm interested in the area of machine learning systems, including training frameworks, inference frameworks and deep learning compilers. I'm also learning technologies about deep learning algorithms, parallel programming, computer architecture. Here are the list of open source projects I have worked on:
 
