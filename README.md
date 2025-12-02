@@ -8,8 +8,6 @@ I'm interested in the area of machine learning systems and high performance comp
 
 [SGLang](https://github.com/sgl-project/sglang) (Now working on)
 
-[Flashinfer](https://github.com/flashinfer-ai/flashinfer)
-
 [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
 
 [ColossalAI](https://github.com/hpcaitech/ColossalAI)
