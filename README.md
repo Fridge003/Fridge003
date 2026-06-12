@@ -12,7 +12,7 @@ I'm interested in the area of machine learning systems and high performance comp
 
 [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
-In my spare time, I like playing video games on Nintendo Switch/PS5, or playing classical piano pieces.
+In my spare time, I like playing video games on Nintendo Switch/PS5, or playing classical piano pieces. Recently I'm playing Pokopia~
 
 <!--
 **Fridge003/Fridge003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
